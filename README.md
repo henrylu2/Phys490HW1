@@ -7,5 +7,5 @@
 - numpy
 
 # Running main.py
-To run main.py use 
+To run main.py, use 
  >python main.py
