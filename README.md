@@ -1,6 +1,6 @@
 # Assignment 1
-Name: Henry Lu
-ID: 20623596
+- Name: Henry Lu
+- ID: 20623596
 
 # Dependencies
 - json
